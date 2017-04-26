@@ -5,3 +5,4 @@
   * auth
 * redux
   * reducer
+  * actions
