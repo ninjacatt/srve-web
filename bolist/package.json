@@ -1,0 +1,14 @@
+{
+  "name": "bolist",
+  "version": "1.0.0",
+  "description": "bolist backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^4.3.0"
+  }
+}
